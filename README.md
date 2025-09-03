@@ -1,2 +1,3 @@
-# stocks-cplusplus-cw
-Advanced Programming Coursework 1: Semi-automated trading system that uses a structured portfolio to assist an investor in making trading decisions based on the performance of a stock
+# Stocks++ – Semi-Automated Trading System
+- Developed a C++ application using stacks and queues to manage a portfolio and assist investment decisions based on stock performance.
+- Implemented class-based design, LIFO/FIFO operations, and robust error handling for edge cases.
